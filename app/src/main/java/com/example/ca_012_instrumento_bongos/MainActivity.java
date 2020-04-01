@@ -20,6 +20,7 @@ import java.util.List;
 @TargetApi(Build.VERSION_CODES.CUPCAKE)
 public class MainActivity extends AppCompatActivity implements SensorEventListener{
 
+    //comentario edicion
     private Button btnCentroB1,btnCentroB2,
             btnMedioB11,btnMedioB12,btnMedioB13,btnMedioB14,
             btnMedioB21,btnMedioB22,btnMedioB23,btnMedioB24,
